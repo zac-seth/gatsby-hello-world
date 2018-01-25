@@ -1,0 +1,8 @@
+# General
+.DS_Store
+
+# Dependencies
+node_modules
+
+# Editor
+jsconfig.json
