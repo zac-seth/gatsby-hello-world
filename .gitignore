@@ -5,5 +5,9 @@
 node_modules
 .vscode
 
+# Gatsby Build Output
+tutorial-part-one/public
+tutorial-part-one/.cache
+
 # Editor
 jsconfig.json
